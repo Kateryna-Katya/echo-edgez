@@ -421,7 +421,7 @@ ul {
 }
 
 .captcha-box input {
-    width: 100px;
+    min-width: 110px;
 }
 
 .checkbox-label {
